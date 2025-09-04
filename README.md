@@ -23,7 +23,7 @@ To conduct this analysis, I followed a structured workflow to ensure data accura
 4. **Dashboard Creation**: I designed an interactive dashboard that helps me present my key findings visually. I used pivot charts linked to pivot Tables to create dynamic visualizations that change based on the data.
 
 ## 📊Pivot Table Screenshot
-(https://github.com/chukwupaul318-ctrl/Customer-Churn-Analysis-with-Excel/raw/main/pivot table.png)
+<img width="799" height="290" alt="pivot table png" src="https://github.com/user-attachments/assets/8dabe451-4b64-4f0d-9680-93f7585b8de6" />
 
 ## Technical Skills Demonstrated.
 - **Data Cleaning**: I used Excel functions and features to prepare raw data for analysis.
@@ -42,7 +42,8 @@ This write up is organized to provide a clear overview of my projects and its de
    
  ## 🗂️Dashboard Preview
 Below is the static preview of the Excel dashboard. You can download the .xlsx file from the excel folder to explore the analysis in details.
-Dashboard paste---------------------------------------
+<img width="871" height="284" alt="THE ORIGINAL CHURN DASHBOARD " src="https://github.com/user-attachments/assets/70b40be5-fdf8-4b8a-8cd0-ed6b7becc06f" />
+
 
 
 ## 📈Key Insights
